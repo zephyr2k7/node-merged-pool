@@ -31,7 +31,7 @@
     "main": "lib/index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/UNOMP/node-merged-pool.git"
+        "url": "git://github.com/zcoinofficial/node-stratum-pool"
     },
     "dependencies": {
         "unomp-multi-hashing": "*",
